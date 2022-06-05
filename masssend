@@ -1,6 +1,6 @@
 local TimesToRepeatBeforeTeleport = 10
 
-
+local msg = ".gg/comrades BEST BEAMERS"
 wait(5)
 e=0
 repeat
